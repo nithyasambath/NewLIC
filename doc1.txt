@@ -1,13 +1,5 @@
 learning makes u better student
 
-git comments i learned today
+added few more points
 
-git init
-git add doc1.txt
-git commit -m "updated"
 
-<<<<<<< HEAD
-this is the first time we enjoyed
-=======
-This is the repository edited file
->>>>>>> 76b396d58588778fccced16cfb07960a0cd21f09
