@@ -5,3 +5,5 @@ git comments i learned today
 git init
 git add doc1.txt
 git commit -m "updated"
+
+this is the first time we enjoyed
